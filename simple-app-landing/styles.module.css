@@ -1,0 +1,20 @@
+
+.containerBox {
+   border: 2px solid black;
+  /* margin: auto;
+  margin-bottom: 15px;
+  width: 350px;
+  background-color: white;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+  border-radius: 4%;
+  position: relative; */
+}
+
+@media (min-width: 600px) {
+ 
+}
+@media (min-width: 709px) {
+}
+@media (min-width: 1100px) {
+ 
+}
